@@ -1,6 +1,8 @@
 # Greater_London_Property_Price_Monitor_Dashboard
 
-**Project Overview**
+**Power BI Dashboard** :
+
+**Project Overview** https://drive.google.com/file/d/1iOq9hc7sk-Chlxh3uWG71_gERX0HEefS/view?usp=drive_link
 
 The Greater London Property Price Monitor Dashboard is an analytical visualization project designed to explore property market trends across London, UK from 2020 to 2023.Using Microsoft SQL Server for data processing and Power BI for visualization, this dashboard transforms raw government property transaction data into interactive, data-driven insights — revealing how property types, duration, and locations influence housing prices in Greater London.This project was developed for a research organization aiming to create a real-time property monitoring tool to track housing trends and support better investment, policy, and pricing decisions.
 
