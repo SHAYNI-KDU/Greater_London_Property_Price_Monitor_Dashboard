@@ -16,14 +16,18 @@ The Greater London Property Price Monitor Dashboard is an analytical visualizati
 
 •	To develop an interactive Power BI dashboard using SQL-based data integration
 
+
 **Tools & Technologies**
+
 •	SQL Server – Data storage, cleaning, and integration
 
 •	Power BI – Data modeling and interactive dashboards
 
 •	UK Government Price Paid Dataset – Real-world transaction data
 
+
 **Data Preparation**
+
 •	Imported datasets (2020–2023) into SQL Server
 
 •	Renamed columns and standardized data types
