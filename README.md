@@ -1,7 +1,6 @@
 # Greater_London_Property_Price_Monitor_Dashboard
 
-**Power BI Dashboard** : https://drive.google.com/file/d/1iOq9hc7sk-Chlxh3uWG71_gERX0HEefS/view?usp=drive_link
-
+**Power BI Dashboard** : https://drive.google.com/file/d/1iOq9hc7sk-Chlxh3uWG71_gERX0HEefS/view?usp=sharing
 
 **Project Overview** 
 
