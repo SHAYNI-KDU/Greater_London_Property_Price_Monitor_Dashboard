@@ -8,10 +8,14 @@ The Greater London Property Price Monitor Dashboard is an analytical visualizati
 
 **Objectives**
 
-To analyze and visualize property transaction trends in London from 2020–2023
-To understand how property type, duration (old vs. new), and location impact property prices
-To identify monthly and yearly changes in the real estate market
-To develop an interactive Power BI dashboard using SQL-based data integration
+•	To analyze and visualize property transaction trends in London from 2020–2023
+
+•	To understand how property type, duration (old vs. new), and location impact property prices
+
+•	To identify monthly and yearly changes in the real estate market
+
+•	To develop an interactive Power BI dashboard using SQL-based data integration
+
 
 **Methodology**
 
@@ -65,10 +69,14 @@ Tools & Technologies Used Tool Purpose Microsoft SQL Server Data cleaning, struc
 
 **Key Insights**
 
-•	2022 recorded the highest average property prices,
-•	Detached houses contribute the highest total transaction value,
-•	New properties dominate the market across all years,
-•	Property sales show clear seasonal fluctuations,
+•	2022 recorded the highest average property prices
+
+•	Detached houses contribute the highest total transaction value
+
+•	New properties dominate the market across all years
+
+•	Property sales show clear seasonal fluctuations
+
 •	Strong regional variation in buyer preferences
 
 **Value of the Project**
@@ -76,9 +84,11 @@ This project demonstrates practical skills in SQL data engineering, Power BI vis
 
 **Academic Context**
 •	Course: SQL for Data Science (LB1224)
+
 •	Program: BSc in Applied Data Science Communication
+
 •	University: General Sir John Kotelawala Defence University
+
 •	Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
 
 
-*
