@@ -50,11 +50,17 @@ Tools & Technologies Used Tool Purpose Microsoft SQL Server Data cleaning, struc
 **Dashboard Features**
 
 •	Average Property Price Cards – Year-wise price comparison
+
 •	Sum of Price by Property Type – Market value distribution
+
 •	Old vs New Property Analysis – Ownership and duration trends
+
 •	Monthly Sales Trend Line Chart – Seasonality insights
+
 •	Funnel Chart – Average price by property type
+
 •	Map Visualization – Regional comparison of old vs new properties
+
 •	Interactive Slicers – Filter by year and month
 
 **Key Insights**
