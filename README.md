@@ -70,7 +70,7 @@ Strong regional variation in buyer preferences
 This project demonstrates practical skills in SQL data engineering, Power BI visualization, and real-world market analysis, making it highly relevant for roles in data analytics, business intelligence, and real estate analytics.
 
 **Academic Context**
-Course: SQL for Data Science (LB1224)
+#Course: SQL for Data Science (LB1224)
 Program: BSc in Applied Data Science Communication
 University: General Sir John Kotelawala Defence University
 Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
