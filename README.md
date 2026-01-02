@@ -47,3 +47,31 @@ CombinedTable = UNION(PP_2020, PP_2021, PP_2022, PP_2023)
 
 Tools & Technologies Used Tool Purpose Microsoft SQL Server Data cleaning, structuring, and integration Power BI Dashboard creation and visualization Excel Preprocessing and initial dataset review
 
+**Dashboard Features**
+
+Average Property Price Cards – Year-wise price comparison
+Sum of Price by Property Type – Market value distribution
+Old vs New Property Analysis – Ownership and duration trends
+Monthly Sales Trend Line Chart – Seasonality insights
+Funnel Chart – Average price by property type
+Map Visualization – Regional comparison of old vs new properties
+Interactive Slicers – Filter by year and month
+
+**Key Insights**
+
+2022 recorded the highest average property prices
+Detached houses contribute the highest total transaction value
+New properties dominate the market across all years
+Property sales show clear seasonal fluctuations
+Strong regional variation in buyer preferences
+
+**Value of the Project**
+
+This project demonstrates practical skills in SQL data engineering, Power BI visualization, and real-world market analysis, making it highly relevant for roles in data analytics, business intelligence, and real estate analytics.
+
+**Academic Context**
+Course: SQL for Data Science (LB1224)
+Program: BSc in Applied Data Science Communication
+University: General Sir John Kotelawala Defence University
+Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
+
