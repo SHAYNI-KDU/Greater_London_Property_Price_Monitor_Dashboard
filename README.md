@@ -16,40 +16,21 @@ The Greater London Property Price Monitor Dashboard is an analytical visualizati
 
 •	To develop an interactive Power BI dashboard using SQL-based data integration
 
+**Tools & Technologies**
+•	SQL Server – Data storage, cleaning, and integration
 
-**Methodology**
+•	Power BI – Data modeling and interactive dashboards
 
-Data Source
-Dataset: UK Government Price Paid Data
+•	UK Government Price Paid Dataset – Real-world transaction data
 
-Files used: pp-2020, pp-2021, pp-2022, pp-2023
+**Data Preparation**
+•	Imported datasets (2020–2023) into SQL Server
 
-Data includes property type, price paid, transaction month, and duration (old/new).
+•	Renamed columns and standardized data types
 
-Data Preparation: 
-Step 1: 
-Importing Data
-Downloaded datasets from official UK data repository
-Imported into SQL Server using “Import Flat File” wizard
+•	Applied primary keys and null handling
 
-Step 2: 
-Database Creation
-Created a new database named SQLTASK1
-Each year’s dataset (pp-2020 to pp-2023) stored in separate tables
-
-Step 3: 
-Data Cleaning
-Renamed columns and changed data types for consistency
-Added primary keys and handled null values
-Unified datasets using SQL UNION function
-
-Step 4: 
-Combining Datasets in Power BI
-Imported cleaned data from SQL into Power BI
-Created a combined table:
-CombinedTable = UNION(PP_2020, PP_2021, PP_2022, PP_2023)
-
-Tools & Technologies Used Tool Purpose Microsoft SQL Server Data cleaning, structuring, and integration Power BI Dashboard creation and visualization Excel Preprocessing and initial dataset review
+•	Combined yearly datasets using SQL UNION and Imported cleaned data into Power BI
 
 **Dashboard Features**
 
